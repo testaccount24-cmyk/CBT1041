@@ -1,0 +1,24 @@
+2025-04-04 04:05:47.664047 - Received CBT.V508.FILE1041.PDS from FILE1041.XMI 
+2025-04-04 04:05:47.665254 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/$$$#DATE
+2025-04-04 04:05:47.665406 - Found $README.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/$README
+2025-04-04 04:05:47.665542 - Found @FIL1041.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/@FIL1041
+2025-04-04 04:05:47.665677 - Found ANN.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/ANN
+2025-04-04 04:05:47.666161 - Found B2H.rexx (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2H
+2025-04-04 04:05:47.666304 - Found B2HAPP.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2HAPP
+2025-04-04 04:05:47.666432 - Found B2HEXA.bin (application/octet-stream) in CBT.V508.FILE1041.PDS, moved to PDS/B2HEXA
+2025-04-04 04:05:47.666562 - Found B2HINF.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2HINF
+2025-04-04 04:05:47.666674 - Found B2HMSG.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2HMSG
+2025-04-04 04:05:47.666799 - Found B2HNAME.bin (application/octet-stream) in CBT.V508.FILE1041.PDS, moved to PDS/B2HNAME
+2025-04-04 04:05:47.667157 - Found B2HPDF.pdf (application/pdf) in CBT.V508.FILE1041.PDS, moved to docs/B2HPDF.pdf
+2025-04-04 04:05:47.667445 - Found B2HR2.html (text/html) in CBT.V508.FILE1041.PDS, moved to PDS/B2HR2
+2025-04-04 04:05:47.667584 - Found B2HSETUP.html (text/html) in CBT.V508.FILE1041.PDS, moved to PDS/B2HSETUP
+2025-04-04 04:05:47.667744 - Found B2HSYS.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2HSYS
+2025-04-04 04:05:47.667895 - Found B2HUSE.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/B2HUSE
+2025-04-04 04:05:47.668095 - Found HCDDOC.pdf (application/pdf) in CBT.V508.FILE1041.PDS, moved to docs/HCDDOC.pdf
+2025-04-04 04:05:47.668367 - Found HTM.html (text/html) in CBT.V508.FILE1041.PDS, moved to PDS/HTM
+2025-04-04 04:05:47.668541 - Found LINKGIF.gif (image/gif) in CBT.V508.FILE1041.PDS, moved to PDS/LINKGIF
+2025-04-04 04:05:47.668720 - Found NEW.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/NEW
+2025-04-04 04:05:47.668850 - Found PKG.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/PKG
+2025-04-04 04:05:47.668988 - Found PRO.html (text/html) in CBT.V508.FILE1041.PDS, moved to PDS/PRO
+2025-04-04 04:05:47.669113 - Found SCT.html (text/html) in CBT.V508.FILE1041.PDS, moved to PDS/SCT
+2025-04-04 04:05:47.669231 - Found SYM.txt (text/plain) in CBT.V508.FILE1041.PDS, moved to PDS/SYM
